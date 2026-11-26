@@ -1,0 +1,420 @@
+{
+  "metaTitle": "Haven Realty | Homes and apartments for sale and rent",
+  "metaDescription": "Browse homes, apartments and villas with clear details, book a viewing and talk to a local agent.",
+  "brand": "Haven Realty",
+  "brandIcon": "house",
+  "nav": {
+    "language": "Language",
+    "menu": "Menu",
+    "cta": "Book a viewing",
+    "links": [
+      {
+        "id": "collection",
+        "label": "Properties"
+      },
+      {
+        "id": "benefits",
+        "label": "Why us"
+      },
+      {
+        "id": "how",
+        "label": "How it works"
+      },
+      {
+        "id": "people",
+        "label": "Agents"
+      },
+      {
+        "id": "pricing",
+        "label": "Fees"
+      },
+      {
+        "id": "faq",
+        "label": "Questions"
+      }
+    ]
+  },
+  "hero": {
+    "eyebrow": "Homes for sale and rent",
+    "title": "Find a home that",
+    "titleAccent": "fits your life",
+    "sub": "Browse verified listings with clear photos, honest details and local agents who answer the phone.",
+    "cta": "Book a viewing",
+    "secondary": "Browse properties",
+    "proof": "Every listing is checked by a local agent before it goes live.",
+    "alt": "Illustration of city apartment buildings with a sun"
+  },
+  "benefits": {
+    "eyebrow": "Why Haven Realty",
+    "title": "Buying or renting should feel clear, not confusing",
+    "items": [
+      {
+        "icon": "compass",
+        "title": "Local knowledge first",
+        "body": "Agents who know the street, the building and the price history behind each listing."
+      },
+      {
+        "icon": "shield",
+        "title": "Checked listings",
+        "body": "Photos, documents and ownership details are reviewed before a home is published."
+      },
+      {
+        "icon": "key",
+        "title": "Viewings that fit your week",
+        "body": "Book morning, evening or weekend viewings and get a reminder before you go."
+      },
+      {
+        "icon": "chat",
+        "title": "Plain answers, fast",
+        "body": "Ask about fees, paperwork or the area and get a direct answer the same day."
+      }
+    ]
+  },
+  "tagline": "A home is more than a listing. It is the street you wake up on, the light in the kitchen, and the place your week slows down.",
+  "how": {
+    "eyebrow": "How it works",
+    "title": "Three steps to your next front door",
+    "steps": [
+      {
+        "title": "Search and shortlist",
+        "body": "Filter by area, price and rooms, then save the homes that feel right."
+      },
+      {
+        "title": "Visit in person",
+        "body": "Book a viewing with the listing agent and walk through the home at your own pace."
+      },
+      {
+        "title": "Make an offer",
+        "body": "Your agent prepares the paperwork, negotiates the terms and guides the signing."
+      }
+    ]
+  },
+  "collection": {
+    "eyebrow": "Properties",
+    "title": "Homes open for viewing now",
+    "sub": "Sample listings. Prices shown are demo prices for this page.",
+    "searchLabel": "Search properties",
+    "searchPlaceholder": "Search by area or home name",
+    "filterLabel": "Filter by type",
+    "allLabel": "All",
+    "emptyTitle": "No homes match this search",
+    "emptyBody": "Try a different area or clear the filters to see every home.",
+    "clearFilters": "Clear filters",
+    "viewDetails": "View details",
+    "askAbout": "Ask about this home",
+    "sampleLabel": "Sample listing",
+    "items": [
+      {
+        "id": "p1",
+        "category": "Apartment",
+        "icon": "house",
+        "title": "Garden view apartment",
+        "location": "Zamalek, Cairo",
+        "meta1": "3 bedrooms",
+        "meta2": "2 bathrooms",
+        "meta3": "142 m²",
+        "price": "EGP 4,850,000",
+        "tag": "For sale",
+        "desc": "A bright corner apartment with a garden view, a fitted kitchen and a balcony that catches the evening sun."
+      },
+      {
+        "id": "p2",
+        "category": "Villa",
+        "icon": "house",
+        "title": "Palm court villa",
+        "location": "New Cairo",
+        "meta1": "5 bedrooms",
+        "meta2": "4 bathrooms",
+        "meta3": "380 m²",
+        "price": "EGP 12,750,000",
+        "tag": "For sale",
+        "desc": "A detached villa with a private garden, a shaded terrace and a quiet street a short walk from the park."
+      },
+      {
+        "id": "p3",
+        "category": "Apartment",
+        "icon": "key",
+        "title": "City lights studio",
+        "location": "Downtown Cairo",
+        "meta1": "1 bedroom",
+        "meta2": "1 bathroom",
+        "meta3": "68 m²",
+        "price": "EGP 9,400 monthly",
+        "tag": "For rent",
+        "desc": "A compact studio with high ceilings, a new kitchen and a five minute walk to the metro."
+      },
+      {
+        "id": "p4",
+        "category": "Townhouse",
+        "icon": "buildings",
+        "title": "Courtyard townhouse",
+        "location": "6th of October City",
+        "meta1": "4 bedrooms",
+        "meta2": "3 bathrooms",
+        "meta3": "210 m²",
+        "price": "EGP 7,320,000",
+        "tag": "For sale",
+        "desc": "A townhouse around a shared courtyard, with a ground floor living room that opens to the garden."
+      },
+      {
+        "id": "p5",
+        "category": "Apartment",
+        "icon": "house",
+        "title": "River side flat",
+        "location": "Maadi, Cairo",
+        "meta1": "2 bedrooms",
+        "meta2": "2 bathrooms",
+        "meta3": "118 m²",
+        "price": "EGP 6,180,000",
+        "tag": "For sale",
+        "desc": "A calm second floor flat near the river walk, with wooden floors and a sunny living room."
+      },
+      {
+        "id": "p6",
+        "category": "Villa",
+        "icon": "house",
+        "title": "Olive garden villa",
+        "location": "Sheikh Zayed City",
+        "meta1": "4 bedrooms",
+        "meta2": "4 bathrooms",
+        "meta3": "320 m²",
+        "price": "EGP 10,950,000",
+        "tag": "For sale",
+        "desc": "A family villa with an olive garden, a roof terrace and a garage for two cars."
+      }
+    ]
+  },
+  "people": {
+    "eyebrow": "Agents",
+    "title": "Meet the people who will show you around",
+    "sub": "Local agents, each focused on one area of the city.",
+    "items": [
+      {
+        "icon": "users",
+        "name": "Sara Mansour",
+        "role": "Senior agent, Zamalek",
+        "body": "Sara has shown homes in Zamalek for nine years and knows most buildings by name."
+      },
+      {
+        "icon": "users",
+        "name": "Omar Haddad",
+        "role": "Agent, New Cairo",
+        "body": "Omar helps families compare compounds and pick the right street for their daily routine."
+      },
+      {
+        "icon": "users",
+        "name": "Laila Nasser",
+        "role": "Rentals lead",
+        "body": "Laila handles rentals end to end, from the first call to the day the keys change hands."
+      },
+      {
+        "icon": "users",
+        "name": "Karim Adel",
+        "role": "Agent, Maadi",
+        "body": "Karim focuses on Maadi flats and villas and answers most questions the same day."
+      }
+    ]
+  },
+  "proof": {
+    "eyebrow": "What buyers say",
+    "title": "People who found home here",
+    "sampleLabel": "Sample testimonial",
+    "items": [
+      {
+        "quote": "Our agent showed us four homes in one week and was honest about the faults in each one. We bought the third.",
+        "name": "Mona El Said",
+        "role": "Bought a flat in Maadi"
+      },
+      {
+        "quote": "The viewing times fit around my work, and the paperwork was explained line by line before I signed.",
+        "name": "Ahmed Fathy",
+        "role": "Rented a studio downtown"
+      },
+      {
+        "quote": "We sold our townhouse in six weeks. Every viewing was confirmed the day before, and we always knew what came next.",
+        "name": "Hala and Youssef Nabil",
+        "role": "Sold a townhouse in 6th of October"
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Fees",
+    "title": "What working with us costs",
+    "sub": "Fees depend on the home and the service. Final figures are confirmed in writing before you sign anything.",
+    "note": "All fees are confirmed in writing before work starts. No fee is charged for browsing listings or booking a viewing.",
+    "plans": [
+      {
+        "name": "Buyer service",
+        "price": "{{buyer fee}}",
+        "per": "Per completed purchase",
+        "cta": "Ask about buying",
+        "featured": false,
+        "features": [
+          "Dedicated agent from first viewing to signing",
+          "Paperwork and contract review",
+          "Price guidance based on recent sales"
+        ]
+      },
+      {
+        "name": "Rental service",
+        "price": "{{rental fee}}",
+        "per": "Per signed lease",
+        "cta": "Ask about renting",
+        "featured": true,
+        "features": [
+          "Shortlist matched to your budget and area",
+          "Accompanied viewings at times that suit you",
+          "Lease terms explained before you sign"
+        ]
+      },
+      {
+        "name": "Seller service",
+        "price": "{{seller fee}}",
+        "per": "Per completed sale",
+        "cta": "Ask about selling",
+        "featured": false,
+        "features": [
+          "Photos and a listing written for your home",
+          "Viewings managed and confirmed for you",
+          "Offers collected and compared in writing"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Questions buyers and renters ask us",
+    "items": [
+      {
+        "q": "How do I book a viewing?",
+        "a": "Pick a home from the list, send a request through the form below, and the listing agent will call you to agree a time."
+      },
+      {
+        "q": "Do you charge to browse listings?",
+        "a": "No. Browsing listings and booking a viewing are free. Fees apply only when a purchase, sale or lease is completed, and they are confirmed in writing first."
+      },
+      {
+        "q": "Can I rent if I am new to the city?",
+        "a": "Yes. Bring a valid ID and proof of income or employment. Your agent will explain which documents each landlord asks for."
+      },
+      {
+        "q": "What documents do I need to buy?",
+        "a": "A valid ID, proof of funds and the ownership documents for the home. Your agent checks the ownership papers before you sign anything."
+      },
+      {
+        "q": "Do you help with mortgages?",
+        "a": "We explain the steps and introduce you to banks our buyers have used, but the loan decision always sits with the bank."
+      },
+      {
+        "q": "What happens after I make an offer?",
+        "a": "Your agent puts the offer in writing, the seller replies, and once terms are agreed both sides sign a reservation agreement before the final contract."
+      }
+    ]
+  },
+  "form": {
+    "eyebrow": "Ask us",
+    "title": "Book a viewing or ask about a home",
+    "sub": "Tell us what you are looking for and an agent will call you back within one working day.",
+    "name": "Full name",
+    "namePh": "Your full name",
+    "email": "Email",
+    "emailPh": "name@example.com",
+    "phone": "Phone",
+    "phonePh": "+20 100 000 0000",
+    "type": "I am interested in",
+    "typePlaceholder": "Choose one",
+    "typeOptions": [
+      "Buying a home",
+      "Renting a home",
+      "Selling a home",
+      "A viewing"
+    ],
+    "message": "Tell us about the home you want",
+    "messagePh": "Area, budget, number of rooms",
+    "submit": "Send my request",
+    "successTitle": "Request received",
+    "successBody": "Thank you. An agent will call you back within one working day.",
+    "sendAnother": "Send another request",
+    "errors": {
+      "required": "This field is required",
+      "email": "Enter an email address in the format name@example.com",
+      "phone": "Enter a phone number with at least 7 digits"
+    },
+    "savedNote": "Requests saved in this browser: {{count}}"
+  },
+  "finalCta": {
+    "title": "Ready to see your next home in person?",
+    "sub": "Book a viewing today and walk through the homes on your shortlist this week.",
+    "cta": "Book a viewing"
+  },
+  "footer": {
+    "about": "Haven Realty helps buyers, renters and sellers across Cairo with checked listings and local agents.",
+    "columns": [
+      {
+        "title": "Explore",
+        "links": [
+          {
+            "label": "Properties",
+            "href": "collection"
+          },
+          {
+            "label": "Why us",
+            "href": "benefits"
+          },
+          {
+            "label": "How it works",
+            "href": "how"
+          },
+          {
+            "label": "Questions",
+            "href": "faq"
+          }
+        ]
+      },
+      {
+        "title": "Services",
+        "links": [
+          {
+            "label": "Agents",
+            "href": "people"
+          },
+          {
+            "label": "Fees",
+            "href": "pricing"
+          },
+          {
+            "label": "Contact",
+            "href": "contact"
+          },
+          {
+            "label": "Book a viewing",
+            "href": "contact"
+          }
+        ]
+      }
+    ],
+    "legalTitle": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "privacyTitle": "Privacy policy",
+    "privacyBody": "We use the details you share in the form only to answer your request. We do not sell your details. You can ask us to delete them at any time.",
+    "termsTitle": "Terms of service",
+    "termsBody": "Listings on this page are samples for demonstration. Prices, availability and fees are confirmed in writing before any agreement is signed.",
+    "rights": "© 2026 Haven Realty. All rights reserved.",
+    "backTop": "Back to top"
+  },
+  "cookie": {
+    "text": "We use a small cookie to remember your language choice and your saved requests.",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "notFound": {
+    "title": "This page does not exist",
+    "body": "The link you followed may be out of date. Go back to the home page and start again.",
+    "back": "Back to home"
+  },
+  "misc": {
+    "skip": "Skip to content",
+    "close": "Close"
+  }
+}
